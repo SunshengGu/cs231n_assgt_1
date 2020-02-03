@@ -1,0 +1,6 @@
+ECE 493 T21 Tutorial 1
+Udacity Proj1: https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb
+Canny Edge Detection: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html
+https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html
+Gaussian Filter: https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter.html
+Hough Transform: Udacity intro to CV free course
